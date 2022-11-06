@@ -12,6 +12,5 @@ public class Test {
         System.out.println("dasasd");
         System.out.println("进行一次修改");
         System.out.println("修改push");
-        System.out.println("修改哦密钥");
     }
 }
